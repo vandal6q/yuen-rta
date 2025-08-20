@@ -5,4 +5,4 @@ Ver0.76.06を使用
 
 - [チャート](/Ver07606_ED1/chart.md)
 - [ショートカット管理](/Ver07606_ED1/shortcut.csv)
-- [参考動画(1:44:07)](https://www.nicovideo.jp/watch/sm44956614)
+- [参考動画(1:43:59)](https://www.nicovideo.jp/watch/sm45290476)
